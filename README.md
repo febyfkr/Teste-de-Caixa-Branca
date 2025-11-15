@@ -1,4 +1,3 @@
-# Teste-de-Caixa-Branca
 CAMINHOS BÁSICOS
 1-2-3
 1-2-4-5-6-8
@@ -10,4 +9,3 @@ N = 9
 M = 8 – 9 + 2*1
 M = -1 + 2
 M = 1
-Não consegui rodar o código
